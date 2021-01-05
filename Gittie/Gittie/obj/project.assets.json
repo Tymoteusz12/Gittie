@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\kwhq38\\.nuget\\packages\\": {}
+    "C:\\Users\\CFPV84\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\Gittie.csproj",
+      "projectUniqueName": "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\Gittie.csproj",
       "projectName": "Gittie",
-      "projectPath": "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\Gittie.csproj",
-      "packagesPath": "C:\\Users\\kwhq38\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\obj\\",
+      "projectPath": "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\Gittie.csproj",
+      "packagesPath": "C:\\Users\\CFPV84\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kwhq38\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CFPV84\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
