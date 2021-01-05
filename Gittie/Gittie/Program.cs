@@ -24,5 +24,10 @@ namespace Gittie
         {
             Console.WriteLine("Joke");
         }
+
+        public static void shout()
+        {
+            Console.WriteLine("Shout");
+        }
     }
 }
