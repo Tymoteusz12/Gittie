@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\Gittie.csproj": {}
+    "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\Gittie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\Gittie.csproj": {
+    "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\Gittie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\Gittie.csproj",
+        "projectUniqueName": "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\Gittie.csproj",
         "projectName": "Gittie",
-        "projectPath": "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\Gittie.csproj",
-        "packagesPath": "C:\\Users\\CFPV84\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CFPV84\\Desktop\\giti\\Gittie\\Gittie\\obj\\",
+        "projectPath": "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\Gittie.csproj",
+        "packagesPath": "C:\\Users\\kwhq38\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kwhq38\\source\\repos\\Gittie\\Gittie\\Gittie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CFPV84\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kwhq38\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
