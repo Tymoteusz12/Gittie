@@ -27,7 +27,7 @@ namespace Gittie
 
         public static void Shout()
         {
-            Console.WriteLine("Shout");
+            Console.WriteLine("Shout!");
         }
     }
 }
