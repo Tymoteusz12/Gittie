@@ -13,5 +13,10 @@ namespace Gittie
         {
             Console.WriteLine("Hello I'm Gittie");
         }
+
+        public static void joke()
+        {
+            Console.WriteLine("Joke");
+        }
     }
 }
