@@ -16,7 +16,7 @@ namespace Gittie
 
         public static void introduce()
         {
-            Console.WriteLine("Hello I'm Gittie");
+            Console.WriteLine("Elo Mordo");
         }
 
         public static void joke()
