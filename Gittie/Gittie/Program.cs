@@ -6,7 +6,12 @@ namespace Gittie
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+        }
+
+        public static void introduce()
+        {
+            Console.WriteLine("Hello I'm Gittie");
         }
     }
 }
