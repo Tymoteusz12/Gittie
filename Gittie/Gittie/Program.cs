@@ -9,6 +9,11 @@ namespace Gittie
 
         }
 
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+
         public static void introduce()
         {
             Console.WriteLine("Hello I'm Gittie");
